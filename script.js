@@ -26,7 +26,7 @@ const addNewNote = (text = '') => {
     note.insertAdjacentHTML('afterbegin', htmlData);       // position where to add 
     document.body.appendChild(note)                       // adding in html 
 
-
+   
     // getting reference
 
     const editButton = note.querySelector('.edit');

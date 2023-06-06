@@ -149,7 +149,7 @@ button:hover .button-text {
   padding: 0.5rem;
 }
 
-.note .operation button {
+.note .operation button {  
   background-color: transparent;
   border: none;
   color: #fff;

@@ -34,7 +34,7 @@ addNewNote  = (text ='') =>{
                 console.log(value);
                   mainButton.innerHTML = value;
 
-            })
+            })  
    
         }
 
